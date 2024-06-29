@@ -6,8 +6,9 @@ A basic nes "game" that moves a colored UFO sprite on a black background. Used t
 
 ### Compiling and Executing on Emulator
 
-To Put in a .bat file 
 ```
+:: Put in a .bat file
+
 :: Change Directory
 cd "project directory"
 
